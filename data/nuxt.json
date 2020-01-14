@@ -1,0 +1,19 @@
+{"projects": [
+  {
+    "title": "This one",
+    "startDate": "17.12.2019",
+    "finishDate": "-",
+    "description": "",
+    "image": "/projects-img/mysite.png",
+    "technologies": "Nuxt.js, Git"
+  },
+  {
+    "title": "TheCentre",
+    "startDate": "17.11.2018",
+    "finishDate": "-",
+    "description": "Made SPA application with server side rendering, used API Laravel. All layouts made with vuetify.",
+    "link": "https://thecentre.co.nz/",
+    "image": "/projects-img/thecentre.png",
+    "technologies": "Nuxt.js, Vuex, Vuetify.js, Axios, Rest API, Git"
+  }
+]}

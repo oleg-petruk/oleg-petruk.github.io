@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[7],{157:function(n,o,t){"use strict";t.r(o);var e={fetch:function(n){return(0,n.redirect)("/portfolio/nuxt")}},r=t(18),component=Object(r.a)(e,void 0,void 0,!1,null,null,null);o.default=component.exports}}]);

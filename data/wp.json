@@ -1,0 +1,109 @@
+{"projects": [
+  {
+    "title": "GreenMeal",
+    "startDate": "10.10.2019",
+    "finishDate": "-",
+    "description": "Made layouts from Figma. <br> Made WP theme with custom post type",
+    "link": "https://greenmeal.es",
+    "image": "/projects-img/greenmeal.png",
+    "technologies": "Wordpress, Polylang, Loco Translate, Custom Post Type UI, ACF & ACF repeater plugins, AJAX, jQuery, SwiperSlider, AirDatepicker"
+  },
+  {
+    "title": "ERNY",
+    "startDate": "10.08.2019",
+    "finishDate": "-",
+    "description": "Made WP theme from existing HTML, writed custom authorization/registratin pages. <br> Used Learndash plugin",
+    "link": "https://www.ernylearn.com",
+    "image": "/projects-img/erny.png",
+    "technologies": "Wordpress, Learndash, Frontend Course Creation, Google Apps Login, BuddyPress, ACF & ACF repeater plugins, AJAX"
+  },
+  {
+    "title": "Oxymend",
+    "startDate": "06.08.2019",
+    "finishDate": "20.09.2019",
+    "description": "Made WP theme from existing HTML <br> WordPress with custom post type",
+    "link": "https://oxymend.com",
+    "image": "/projects-img/oxymend.png",
+    "technologies": "Wordpress, Custom Post Type UI, ACF & ACF repeater plugins, AJAX"
+  },
+  {
+    "title": "Buro Kvartal",
+    "startDate": "01.03.2019",
+    "finishDate": "21.03.2019",
+    "description": "Made layouts from PSD. <br> Made WP theme",
+    "link": "http://buro-kvartal.ru",
+    "image": "/projects-img/buro.png",
+    "technologies": "Wordpress, ACF plugin"
+  },
+  {
+    "title": "Uromir",
+    "startDate": "19.10.2018",
+    "finishDate": "05.11.2018",
+    "description": "Made layouts from PSD. <br> Made WP theme with custom post type",
+    "link": "https://uromir.ru",
+    "image": "/projects-img/uromir.png",
+    "technologies": "Wordpress, ACF plugin"
+  },
+  {
+    "title": "NTB bank",
+    "startDate": "18.07.2018",
+    "finishDate": "12.08.2018",
+    "description": "Made WP theme from existing HTML <br> WordPress with custom post type",
+    "link": "https://pbrt.ru",
+    "image": "/projects-img/pbrt.png",
+    "technologies": "Wordpress, ACF plugin, geolocation, cFormII"
+  },
+  {
+    "title": "ITPromotion",
+    "startDate": "15.06.2018",
+    "finishDate": "09.07.2018",
+    "description": "Made WP theme from existing HTML <br> WordPress with custom post type",
+    "link": "https://itpromotion.eu",
+    "image": "/projects-img/itp.png",
+    "technologies": "Wordpress, ACF plugin"
+  },
+  {
+    "title": "Briolette tantra studio",
+    "startDate": "20.05.2018",
+    "finishDate": "04.06.2018",
+    "description": "Made WP theme from existing HTML",
+    "image": "/projects-img/briolette.png",
+    "technologies": "Wordpress, ACF plugin"
+  },
+  {
+    "title": "Wedding dresses site",
+    "startDate": "30.03.2018",
+    "finishDate": "14.04.2018",
+    "description": "Made layout and Wordpress theme from example site",
+    "link": "http://caramellewedding.com",
+    "image": "/projects-img/caramelle.png",
+    "technologies": "Wordpress, jQuery, Bootstrap, Lightbox.js, slick.js, masonry.js ContactForm7, qTranslateX"
+  },
+  {
+    "title": "landing for Telemetry",
+    "startDate": "13.03.2018",
+    "finishDate": "23.03.2018",
+    "description": "Made layout from sketch file, with PHP form handler and google captcha. <br> Used wow.js and animate.css",
+    "link": "https://coffeemetry.com",
+    "image": "/projects-img/telemetry.png",
+    "technologies": "jQuery, AJAX, wow.js"
+  },
+  {
+    "title": "Famadviser site about family law",
+    "startDate": "23.11.2017",
+    "finishDate": "10.12.2017",
+    "description": "Made layouts from PSD. Made js calculator of aliments. Created custom theme for WordPress with custom post type and taxonomy. Used ACF and ACF repeater plugins.",
+    "link": "https://famadviser.ru/",
+    "image": "/projects-img/famadviser.png",
+    "technologies": "WordPress, jQuery, ACF"
+  },
+  {
+    "title": "My first project: blog about web-design",
+    "startDate": "05.07.2017",
+    "finishDate": "21.07.2017",
+    "description": "Personal blog in WordPress for web-designer. <br> From PSD layouts",
+    "link": "http://alexsay.ru",
+    "image": "/projects-img/alexsay.png",
+    "technologies": "WordPress, jQuery, Disqus, Fancybox, AJAX"
+  }
+]}
